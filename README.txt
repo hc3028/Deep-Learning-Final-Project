@@ -10,3 +10,6 @@ The submission includes the following files:
 
 3. Meng Ren, Hong Chen_Final Report.pdf
 	Contains the final written report
+
+4. classification.csv
+	Contains the classification results
